@@ -1,0 +1,19 @@
+.hero{
+    background-image: url('../imgs/dan-gold-E6HjQaB7UEA-unsplash.jpg');
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+.footer{
+background-color: rgb(112, 42, 202);
+height: 100px;
+}
+.navbar{
+    background-color: rgb(112, 42, 202);
+}
+
+.hero2{
+    background-image: url('../imgs/alireza-mirzabegi-FtUlp4THNI4-unsplash.jpg');   background-size: cover;
+    height: 400px;
+    width: 100%;
+}
